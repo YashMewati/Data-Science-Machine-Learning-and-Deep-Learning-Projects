@@ -38,6 +38,7 @@ the θ1 and θ2 values, to reach the best value that minimize the error between 
 (pred) and true y value (y).
 
 ![LR-cost-function-1](https://user-images.githubusercontent.com/85125898/146008082-5589db28-3696-4048-882a-faba29062e0c.jpg)
+
 ![LR-cost-function-2](https://user-images.githubusercontent.com/85125898/146008091-9afcd4ae-4dfb-41c2-98df-f2acfc22da61.jpg)
 
 Cost function(J) of Linear Regression is the Root Mean Squared Error (RMSE) between predicted y value (pred) and true y value (y).
