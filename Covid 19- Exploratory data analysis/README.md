@@ -12,14 +12,23 @@ There are a number of tools that are useful for EDA, but EDA is characterized mo
 
 Typical graphical techniques used in EDA are:
 
-Box plot 
-Histogram
-Multi-vari chart
-Run chart
-Pareto chart
-Scatter plot
-Stem-and-leaf plot
-Parallel coordinates
-Odds ratio
-Targeted projection pursuit
+• Box plot 
+
+• Histogram
+
+• Multi-vari chart
+
+• Run chart
+
+• Pareto chart
+
+• Scatter plot
+
+• Stem-and-leaf plot
+
+• Parallel coordinates
+
+• Odds ratio
+
+• Targeted projection pursuit
 Etc. 
