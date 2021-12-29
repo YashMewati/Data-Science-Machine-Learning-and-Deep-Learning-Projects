@@ -8,7 +8,7 @@ B.Tech - Mechanical Engineer (Fresher) || Data Science and Machine Learning Enth
 
 𝐓𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 - • Python Libraries - • Pandas || • Numpy || • Matplotlib || • Seaborn || • scikit ||
 
-• TensorFlow || • Spark || • Hadoop
+• TensorFlow || • Spark || • Hadoop || ETC .
 
 • CAD || • CATIA || • SOLIDWORKS || • HTML || • CSS || •JavaScript || • Python Programing || • SQL. || • Adobe Software || • Blender || • Figma || • Sketch || • MATLAB || • OCTAVE || • Bootstrap || • Git ||
 
