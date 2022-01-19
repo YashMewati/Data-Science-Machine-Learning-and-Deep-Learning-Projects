@@ -1,3 +1,12 @@
+# Predicting Model For Apple Stock 
+
+𝐅𝐫𝐨𝐦 𝐃𝐚𝐭𝐞
+
+𝐬𝐭𝐚𝐫𝐭='𝟐𝟎𝟏𝟐-𝟎𝟏-𝟎𝟏',𝐞𝐧𝐝='𝟐𝟎𝟏𝟗-𝟏𝟐-𝟏𝟕')
+
+
+# Final Predicting Graph  
+
 ![download](https://user-images.githubusercontent.com/85125898/147266730-ca170f2f-d520-45b9-89a9-c881b3b4ce7b.png)
 
 ![newplot (4)](https://user-images.githubusercontent.com/85125898/147266750-fa63e827-80a6-4ca0-9b29-54262116bf2e.png)
